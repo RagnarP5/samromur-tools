@@ -1,0 +1,31 @@
+id	speaker_id	filename	sentence_norm	is_valid
+01	1	test01.wav	ég er frá þýskalandi	1.0
+02	1	test02.wav	þetta er taskan mín	1.0
+03	1	test03.wav	hvar er handklæðið þit	1.0
+04	1	test04.wav	reykjavík er höfuðborg landsins	1.0
+05	1	test05.wav	við sendum bréf til englands	1.0
+06	1	test06.wav	ég tala dönsku og frönsku	1.0
+07	1	test07.wav	maðurinn er í ljósum fötum	1.0
+08	1	test08.wav	konan heitir sædís	1.0
+09	1	test09.wav	þetta er gömul stytta	1.0
+10	1	test10.wav	jón er frægur maður	1.0
+11	1	test11.wav	í reykjavík eru bæði falleg og ljót hús	1.0
+12	1	test12.wav	ferð þú í kalda pottinn	1.0
+13	1	test13.wav	þetta hús er hvítt	1.0
+14	1	test14.wav	er þetta sími eða spjaldtölva	1.0
+15	1	test15.wav	nonni nennti ekki að fara þangað það var svo langt í burtu	1.0
+16	1	test16.wav	hrafnarnir fljúga hátt yfir þorpinu	1.0
+17	1	test17.wav	lína vilhjálmsdóttir er læknir	1.0
+18	1	test18.wav	hún vinnur á landsspítalanum	1.0
+19	1	test19.wav	það er partí hjá hrafnhildi um helgina	1.0
+20	1	test20.wav	ég borða köku með rjóma	1.0
+21	1	test21.wav	pabbi sá apa í garðinum	1.0
+22	1	test22.wav	hanna bakar pönnukökur með þeyttum rjóma og rabarbaramarmelaði	1.0
+23	1	test23.wav	það eru oftast fimm fingur á einni hendi	1.0
+24	1	test24.wav	bogi býr í kópavogi	1.0
+25	1	test25.wav	hér eru átta flottar blokkir	1.0
+26	1	test26.wav	flestir bandaríkjamenn borða kalkún á þakkargjörðarhátíðinni	1.0
+27	1	test27.wav	björk er fræg íslensk söngkona	1.0
+28	1	test28.wav	frænka mín fékk hraðasekt á norðurlandi	1.0
+29	1	test29.wav	brauð og kornvörur fást í matvörubúðinni	1.0
+30	1	test30.wav	það eru sjö sjoppur í þorpinu	1.0
