@@ -1,0 +1,30 @@
+test01: ég er frá þýskalandi
+test02: þetta er taskan mín
+test03: hvar er handklæðið þit
+test04: reykjavík er höfuðborg landsins
+test05: við sendum bréf til englands
+test06: ég tala dönsku og frönsku
+test07: maðurinn er í ljósum fötum
+test08: konan heitir sædís
+test09: þetta er gömul stytta
+test10: jón er frægur maður
+test11: í reykjavík eru bæði falleg og ljót hús
+test12: ferð þú í kalda pottinn
+test13: þetta hús er hvítt
+test14: er þetta sími eða spjaldtölva
+test15: nonni nennti ekki að fara þangað það var svo langt í burtu
+test16: hrafnarnir fljúga hátt yfir þorpinu
+test17: lína vilhjálmsdóttir er læknir
+test18: hún vinnur á landsspítalanum
+test19: það er partí hjá hrafnhildi um helgina
+test20: ég borða köku með rjóma
+test21: pabbi sá apa í garðinum
+test22: hanna bakar pönnukökur með þeyttum rjóma og rabarbaramarmelaði
+test23: það eru oftast fimm fingur á einni hendi
+test24: bogi býr í kópavogi
+test25: hér eru átta flottar blokkir
+test26: flestir bandaríkjamenn borða kalkún á þakkargjörðarhátíðinni
+test27: björk er fræg íslensk söngkona
+test28: frænka mín fékk hraðasekt á norðurlandi
+test29: brauð og kornvörur fást í matvörubúðinni
+test30: það eru sjö sjoppur í þorpinu
